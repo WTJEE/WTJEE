@@ -6,16 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="blank">
+  <a href="https://linkedin.com/in/wtje-33317a294" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="yourusername" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/youruserid" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="youruserid" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="blank">
+  <a href="https://twitter.com/WTJE163576" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="yourusername" height="30" width="40" />
   </a>
-  <a href="https://github.com/yourusername" target="blank">
+  <a href="https://github.com/WTJEE" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="yourusername" height="30" width="40" />
   </a>
 </p>
