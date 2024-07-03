@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer working on exciting projects</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=WTJE&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
 
 <p align="center">
